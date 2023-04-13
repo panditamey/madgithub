@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447634154202",
+    "project_id": "exp3-8e52a",
+    "storage_bucket": "exp3-8e52a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447634154202:android:acb6d45defd4c79abc3be3",
+        "android_client_info": {
+          "package_name": "com.example.mad_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447634154202-gjndke17pr6fo7fi8ql886mcla5jh6cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBc4e-J6g6jJqqZhSzc8-jRqjw3Gd8nZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447634154202-gjndke17pr6fo7fi8ql886mcla5jh6cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
